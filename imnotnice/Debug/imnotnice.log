@@ -1,0 +1,5 @@
+﻿  imnotnice.cpp
+c:\users\swickz\documents\visual studio 2015\projects\imnotnice\imnotnice\imnotnice.cpp(15): warning C4700: uninitialized local variable 'i' used
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  imnotnice.vcxproj -> C:\Users\SwickZ\documents\visual studio 2015\Projects\imnotnice\Debug\imnotnice.exe
+  imnotnice.vcxproj -> C:\Users\SwickZ\documents\visual studio 2015\Projects\imnotnice\Debug\imnotnice.pdb (Partial PDB)
